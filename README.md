@@ -3,7 +3,7 @@
 ### Link do Surge: http://four-writing.surge.sh/index.html
 
 <div align="center">
-<a href="#sobre">Sobre</a> | <a href="#tecnologias">Tecnologias</a> | <a href="#funciona">O que funciona</a> | <a href="#nao-funciona">Backlog</a> | <a href='#img-mobile'>Imagens Desktop</a> | <a href="#devs">Desenvolvedores</a>
+<a href="#sobre">Sobre</a> | <a href="#tecnologias">Tecnologias</a> | <a href="#funciona">O que funciona</a> | <a href='#img-mobile'>Imagens Desktop</a>
 </div>
 
 ## <h2 id="sobre">📓 Sobre<h2>
@@ -29,11 +29,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
     * As cartas do(a) usuário(a) e uma única carta do computador são mostradas a ele(a) a cada rodada. O(A) usuário(a) deve decidir se deseja comprar mais cartas;
     * Quando o(a) usuário(a) decidir parar de comprar cartas e tiver a pontuação menor ou igual a 21, inicia-se a rodada do computador.
     * O(A) usuário(a) perde se a sua pontuação ultrapassar 21 e ganha aquele que obter maior pontuação ou conseguir o blackjack (21 pontos).
-  
-## <h2 id="nao-funciona">📋 Backlog</h2>
-* Responsividade para desktop 
 
 ## <h2 id="img-mobile">🖥️ Imagens Desktop</h2>
+
+![home](https://user-images.githubusercontent.com/71045022/159587347-d802c837-e212-48c5-9228-bc6cfd331487.JPG)
+![home1](https://user-images.githubusercontent.com/71045022/159587351-434e4bd9-b0db-47ec-8263-6d4aa1f0ee7e.JPG)
+![rules](https://user-images.githubusercontent.com/71045022/159587355-b328e089-0f64-45f1-ab25-2af1e4ffab45.JPG)
   
 ________________________________________
 
