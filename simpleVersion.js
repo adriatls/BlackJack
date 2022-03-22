@@ -1,4 +1,4 @@
-// Versão reduzida de Blackjack - Nosso Jogo
+// Versão reduzida de Blackjack
 
 //console.log("Boas vindas ao jogo de Blackjack!");
 //

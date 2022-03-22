@@ -1,12 +1,16 @@
-//Desafio Blackjack Completo
+//Versão Completa - Desafio Blackjack
 
-if(confirm(
-   "Boas vindas ao jogo de Blackjack! \n" +
-   "Quer iniciar uma nova rodada?")) {
-   game();
-} else {
-   console.log("O jogo acabou.")
-}
+document
+  .getElementById("jogar")
+  .addEventListener("click", game);
+
+// if(confirm(
+//    "Boas vindas ao jogo de Blackjack! \n" +
+//    "Quer iniciar uma nova rodada?")) {
+//    game();
+// } else {
+//    console.log("O jogo acabou.")
+// }
 
 function game(){
    

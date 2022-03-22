@@ -1,5 +1,5 @@
 /**
-* NÃO MEXAM NESTE AQUIVO EM HIPÓTESE ALGUMA
+* Arquivo fornecido pela Labenu para o desenvolvimento do projeto
 */
 
 function comprarCarta() {
