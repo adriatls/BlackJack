@@ -1,6 +1,6 @@
 <h1 align="center" id="top" border="none">♥️♣️ BlackJack ♠️♦️</h1>
 
-### Link do Surge: 
+### Link do Surge: http://four-writing.surge.sh/index.html
 
 <div align="center">
 <a href="#sobre">Sobre</a> | <a href="#tecnologias">Tecnologias</a> | <a href="#funciona">O que funciona</a> | <a href="#nao-funciona">Backlog</a> | <a href='#img-mobile'>Imagens Desktop</a> | <a href="#devs">Desenvolvedores</a>
